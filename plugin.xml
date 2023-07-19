@@ -19,7 +19,7 @@
 
   <preference name="APP_DOMAIN" default="/" />
   <preference name="APP_PATH" default="/" />
-  <preference name="Hostname" value="localhost" />
+ 
 
   <platform name="android">
     <hook type="after_plugin_install" src="scripts/crashlytics/android/after_plugin_install.js" />
