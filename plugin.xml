@@ -40,7 +40,6 @@
     </config-file>
     <config-file target="AndroidManifest.xml" parent="/manifest/application">
       <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService" />
-      <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
     </config-file>
     <config-file target="AndroidManifest.xml" parent="/manifest/application/activity">
       <intent-filter>
