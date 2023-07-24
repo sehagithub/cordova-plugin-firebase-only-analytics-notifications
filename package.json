@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AsmaaShahen/cordova-plugin-firebase"
+    "url": "https://github.com/sehagithub/cordova-plugin-firebase"
   },
   "name": "cordova-plugin-firebase",
   "version": "0.2.0",
